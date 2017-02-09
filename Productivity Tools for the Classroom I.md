@@ -1,14 +1,16 @@
 # ICT in Education
 
-### Jaén, November 2016
+### Jaén, Febrero 2017
 
 ### English Matters
 
-## Open Source Tools for Teaching and Learning in Class
+## Productivity Tools for Teaching and Learning in Class
 
 ### José Antonio Vacas @javacasm
 
 ![./Licencia CC.png](./images/Licencia_CC.png)
+
+## https://goo.gl/lXtyNz
 
 # Productivity Tools for the Classroom I
 
