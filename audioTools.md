@@ -16,8 +16,8 @@
 
 ## online
 ### [https://twistedwave.com/online/](https://twistedwave.com/online/)
-### [https://soundation.com/studio](https://soundation.com/studio)
-### [https://audioeditor.filelab.com/app](https://audioeditor.filelab.com/app)
+### [https://soundation.com/studio](https://soundation.com/studio) (Secuencer )
+
 
 ## Desktop
 
@@ -36,7 +36,7 @@
 ## Resources
 
 ### Free sounds
-* [FreeSounds](https://www.freesound.org/browse/tags/sound-effects/)
+* [FreeSounds](https://www.freesound.org/browse/tags/sound-effects/) (Need create an acount)
 * [soundible](http://soundbible.com/free-sound-effects-1.html)
 
 ### Professional sounds
