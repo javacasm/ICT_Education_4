@@ -10,7 +10,7 @@
 
 ![./Licencia CC.png](./images/Licencia_CC.png)
 
-## https://goo.gl/lXtyNz
+## https://goo.gl/idGJpn
 
 ### It's not about Learning to use the Computer, its about finding a better way to learning everything using the Computers
 

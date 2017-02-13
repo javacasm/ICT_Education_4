@@ -10,7 +10,7 @@
 
 ![./Licencia CC.png](./images/Licencia_CC.png)
 
-## https://goo.gl/lXtyNz
+## https://goo.gl/idGJpn
 
 # Video editing Tools
 
