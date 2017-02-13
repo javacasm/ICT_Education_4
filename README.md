@@ -16,7 +16,7 @@
 
 #### Schedule - Tuesday 13
 
-  09:30 - 11:00 [Productivity Tools for the Classroom I](/Productivity%20Tools%20for%20the%20Classroom%20I.md)
+  09:30 - 11:00 [Productivity Tools for the Classroom (audio & video tools)](/Productivity%20Tools%20for%20the%20Classroom%20I.md)
 
   11:00 - 11:30 Relaxing Time
 
